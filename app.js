@@ -48,7 +48,7 @@ client.on("message", async message => {
   // command = say
   // args = ["Is", "this", "the", "real", "life?"]
   const args = message.content.split(/\s+/g);
-  const command = args.shift().slice(config.prefix.length);
+  const command = args.shift().slice(config.prefix.length).toLowerCase();
   
   // Let's go with a few common example commands! Feel free to delete or change those.
   
