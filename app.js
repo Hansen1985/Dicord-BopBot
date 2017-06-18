@@ -99,13 +99,13 @@ client.on("message", async message => {
   if(command === "ban") {
     // Most of this command is identical to kick, except that here we'll only let admins do it.
     // In the real world mods could ban too, but this is just an example, right? ;)
-    if(!message.member.roles.some(r=>["Administrator", "Moderator"].includes(r.name)) )
+    if(!message.member.roles.some(r=>["Administrator"].includes(r.name)) )
       return message.reply("Sorry, you don't have permissions to use this!");
     
     let member = message.mentions.members.first();
     if(!member)
       return message.reply("Please mention a valid member of this server");
-    if(!member.kickable) 
+    if(!member.bannable) 
       return message.reply("I cannot ban this user! Do they have a higher role? Do I have ban permissions?");
 
     let reason = args.slice(1).join(' ');
@@ -128,7 +128,7 @@ client.on("message", async message => {
       return message.reply("Please provide a number between 2 and 100 for the number of messages to delete");
     
     // So we get our messages, and delete them. Simple enough, right?
-    const fetched = await message.channel.fetchMessages({count: 100});
+    const fetched = await message.channel.fetchMessages({count: deleteCount});
     message.channel.bulkDelete(fetched)
       .catch(error => message.reply(`Couldn't delete messages because of: ${error}`));
   }
