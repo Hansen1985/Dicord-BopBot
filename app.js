@@ -132,5 +132,5 @@ client.on("message", async message => {
   }
 });
 
-client.log(config.token);
+client.login(config.token);
            
