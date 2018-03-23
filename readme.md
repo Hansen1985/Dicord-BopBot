@@ -11,8 +11,6 @@ it is faster than startsWith *by an order of magnitude*. I have the performance 
 There is also an upcoming example of a more complete bot with separate command files (command handler)
 as well as per-server configurations. You can find it at: [to be done!]
 
-If what you need is a selfbot, this won't do. I suggest taking a look at [evie.selfbot](http://github.com/eslachance/evie.selfbot)
-
 ## Setup
 
 - Create a new folder somewhere, give it a bot name, aka `MyBot` or `SuperBot`
@@ -36,6 +34,12 @@ node app.js
 
 If you've done things right, that should start the bot. 
 
+## Support
+All support for bot code is offered in the Idiot's Guide Official Server. 
+
+[![](http://proof.evie-banned.me/lasBU8E)](http://discord.gg/9ESEZAx)
+
+**COMMENTS BELOW ARE NOT MONITORED AND YOU WILL NOT RECEIVE SUPPORT HERE**
 
 ## Credits
 
