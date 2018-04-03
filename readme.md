@@ -8,9 +8,6 @@ information to properly understand each part and how it works.
 in terms of performance, especially using Node 8. Though maybe "indexOf" might look ugly for example, 
 it is faster than startsWith *by an order of magnitude*. I have the performance tests to prove it.
 
-There is also an upcoming example of a more complete bot with separate command files (command handler)
-as well as per-server configurations. You can find it at: [to be done!]
-
 ## Setup
 
 - Create a new folder somewhere, give it a bot name, aka `MyBot` or `SuperBot`
