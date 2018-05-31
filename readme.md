@@ -4,17 +4,14 @@ This bot example is the combined work of members of the Discord.js and Idiot Gui
 It attempts to provide a "complete" starter example of a simple, one-file bot, with comments and
 information to properly understand each part and how it works.
 
-> I believe I should note that I'm a #speedwhore and the lines used in this example are *the fastest*
-in terms of performance, especially using Node 8. Though maybe "indexOf" might look ugly for example, 
-it is faster than startsWith *by an order of magnitude*. I have the performance tests to prove it.
-
 ## Setup
 
 - Create a new folder somewhere, give it a bot name, aka `MyBot` or `SuperBot`
 - Create a file called `app.js`, and paste in the contents of app.js below.
 - Create a file called `config.json` and give it the following content, using your real bot token:
 ```json
-{ "token"  : "MTg-this-IzNzU3OTA5NjA-is.not-DCeFB-a.real-r4DQlO-t0ken-qerT0",
+{ 
+  "token"  : "MTg-this-IzNzU3OTA5NjA-is.not-DCeFB-a.real-r4DQlO-t0ken-qerT0",
   "prefix" : "+"
 }
 ```
