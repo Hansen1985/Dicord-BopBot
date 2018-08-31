@@ -40,10 +40,6 @@ All support for bot code is offered in the Idiot's Guide Official Server.
 
 **COMMENTS BELOW ARE NOT MONITORED AND YOU WILL NOT RECEIVE SUPPORT HERE**
 
-## Credits
-
-Project created and maintained with the help of: 
-
-- **eslachance#4611** , aka `〈evie.codes〉`, for the heavy lifting
-- **York#2400** , for pointing out mistakes, moral support and jester entertainment.
-- **TrueBoxGuy#3692** for letting me know of a dumb thing I forgot, and an unfinished comment.
+### COMMENTS BELOW ARE NOT MONITORED AND YOU WILL NOT RECEIVE SUPPORT HERE
+## COMMENTS BELOW ARE NOT MONITORED AND YOU WILL NOT RECEIVE SUPPORT HERE
+# COMMENTS BELOW ARE NOT MONITORED AND YOU WILL NOT RECEIVE SUPPORT HERE
