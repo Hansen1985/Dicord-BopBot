@@ -36,7 +36,7 @@ If you've done things right, that should start the bot.
 ## Support
 All support for bot code is offered in the [Idiot's Guide Official Server](https://discord.gg/4NE4bk7).
 
-[![](http://proof.evie-banned.me/lasBU8E)](http://discord.gg/4NE4bk7)
+[![](https://img.evie.codes/e8ax7M8)](http://discord.gg/4NE4bk7)
 
 **COMMENTS BELOW ARE NOT MONITORED AND YOU WILL NOT RECEIVE SUPPORT HERE**
 
