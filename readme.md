@@ -34,7 +34,7 @@ node index.js
 If you've done things right, that should start the bot.
 
 ## Support
-All support for bot code is offered in the [https://discord.gg/4NE4bk7](Idiot's Guide Official Server).
+All support for bot code is offered in the [Idiot's Guide Official Server](https://discord.gg/4NE4bk7).
 
 [![](http://proof.evie-banned.me/lasBU8E)](http://discord.gg/4NE4bk7)
 
