@@ -6,6 +6,8 @@ information to properly understand each part and how it works.
 
 [Want a better tutorial? Check out AnIdiots.Guide](https://anidiots.guide/)
 
+> ***NOTE:*** This code only works for discord.js version 11. Most of this doesn't work in v12 because they broke everything. I've no intention to update this code, so make sure you install version 11 as per instructions.
+
 ## Setup
 
 > Before doing any of this make sure you have a bot account, check [this page](https://anidiots.guide/first-bot/your-first-bot) to know how to create the bot app and your token, as well as how to invite the bot in your guild.
@@ -27,7 +29,7 @@ the following commands:
 
 ```
 npm init -y
-npm install discord.js
+npm install discord.js@11.6.3
 node index.js
 ```
 
